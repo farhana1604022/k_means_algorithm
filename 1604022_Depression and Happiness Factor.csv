@@ -1,0 +1,1011 @@
+Timestamp,Which year are you in?,How are you feeling right now?,"On a scale of 1-100, how would you express this feeling?",Gender,Age,Your location ?,Relationship status,Are you happy with your financial state?,How much have you succeeded to cope up with the environment of your educational institution?,Understanding with your family members?,Are you feeling pressure in your study or work right now?,Are you satisfied with your academic result?,Are you happy with your living place?,Who supports you when you are not succeeding in your academic life?,Have you used any social media within the last 6 hours?,Do you have inferiority complex? ,Are you satisfied with your meal today?,Are you feeling sick/health issues today?,"Have you done any recreational activity (sports, gaming, hobby etc.) today?",How long did you sleep last night?(in hours)
+11/24/2020 8:20,4th year,Normal,50,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,9
+11/24/2020 8:20,4th year,Normal,50,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,9
+11/24/2020 8:20,4th year,Normal,50,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Maybe,Yes,No,Yes,9
+11/24/2020 8:20,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,Yes,No,Yes,Family,Yes,Maybe,Yes,No,Yes,8
+11/24/2020 8:20,1st year,Very bad,10,Female,20,Hall-Mess,Single,Yes,1,Good,Yes,No,No,Family,Yes,Maybe,Yes,No,Yes,8
+11/24/2020 8:20,1st year,Good,80,Female,20,Hall-Mess,Single,Yes,1,Good,Yes,No,No,Family,Yes,Maybe,Yes,No,Yes,8
+11/24/2020 8:20,1st year,Very good,100,Female,20,Hall-Mess,Single,Yes,2,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,7
+11/24/2020 8:20,1st year,Very good,100,Female,20,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+11/25/2020 8:50,1st year,Normal,60,Female,20,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Maybe,Yes,No,Yes,8
+11/25/2020 8:50,1st year,Very good,100,Female,20,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,8
+11/25/2020 8:50,4th year,Normal,60,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,Yes,No,8
+11/25/2020 8:50,1st year,Normal,60,Female,20,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,Maybe,Yes,Yes,No,8
+11/25/2020 8:50,1st year,Good,80,Female,20,Hall-Mess,Single,Yes,3,Good,Yes,No,No,Family,Yes,Maybe,Yes,Yes,No,8
+11/25/2020 8:50,2nd year,Good,80,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,Yes,No,9
+11/25/2020 8:50,2nd year,Good,80,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+11/26/2020 14:57,2nd year,Good,80,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+11/26/2020 14:57,2nd year,Good,80,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8
+11/26/2020 14:57,2nd year,Good,80,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8
+11/26/2020 14:57,2nd year,Very bad,10,Female,21,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,8
+11/26/2020 14:57,2nd year,Good,75,Female,21,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+11/26/2020 14:57,3rd year,Very bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,8
+11/26/2020 14:57,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,8
+11/26/2020 14:57,4th year,Very good,95,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+12/15/2020 8:46,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,6
+12/15/2020 8:48,4th year,Normal,60,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+12/15/2020 8:50,4th year,Very bad,10,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,Yes,No,Yes,Yes,No,7
+12/15/2020 8:52,4th year,Very bad,10,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,8
+12/15/2020 8:53,4th year,Very bad,1,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,9
+12/15/2020 9:06,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+12/15/2020 9:11,3rd year,Good,80,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,7
+12/20/2020 9:35,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,Yes,No,7
+12/20/2020 9:37,3rd year,Very good,100,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,5
+12/20/2020 9:39,3rd year,Bad,40,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+12/20/2020 9:40,3rd year,Very bad,5,Female,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,5
+12/20/2020 9:42,3rd year,Bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,7
+12/20/2020 9:45,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+12/20/2020 9:49,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+12/20/2020 9:50,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+12/20/2020 9:53,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+12/20/2020 9:54,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+12/20/2020 10:00,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,Yes,No,9
+12/20/2020 10:03,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,No,8
+12/21/2020 10:31,4th year,Normal,70,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,9
+12/21/2020 10:32,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,9
+12/21/2020 10:34,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,9
+12/21/2020 10:37,4th year,Normal,75,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,8
+12/21/2020 10:43,4th year,Normal,60,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,9
+12/21/2020 10:46,4th year,Normal,65,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,9
+12/21/2020 10:48,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,8
+12/21/2020 10:52,4th year,Normal,65,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/21/2020 10:53,4th year,Good,80,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,6
+12/21/2020 15:04,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+12/21/2020 15:06,4th year,Very good,95,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+12/21/2020 15:08,4th year,Very good,90,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,8
+12/22/2020 10:10,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,9
+12/22/2020 10:11,4th year,Normal,70,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,9
+12/22/2020 10:12,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,7
+12/22/2020 10:14,4th year,Very good,85,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+12/22/2020 10:15,4th year,Good,85,Female,23,Shopping Mall,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,7
+12/22/2020 10:16,4th year,Good,75,Female,23,Shopping Mall,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,6
+12/22/2020 22:27,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,8
+12/24/2020 10:18,4th year,Normal,60,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/24/2020 10:19,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/24/2020 10:21,4th year,Normal,55,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/24/2020 10:22,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/24/2020 10:24,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/24/2020 10:25,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/24/2020 10:28,4th year,Good,80,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,9
+12/24/2020 10:31,4th year,Very good,90,Female,23,park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,8
+12/24/2020 10:34,4th year,Good,80,Female,23,Shopping Mall,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,6
+12/26/2020 20:02,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+12/26/2020 20:02,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,8
+12/26/2020 20:04,4th year,Very good,80,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,8
+12/26/2020 20:05,4th year,Very good,85,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,8
+12/26/2020 20:07,4th year,Bad,30,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,No,8
+12/26/2020 20:08,4th year,Bad,35,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+12/26/2020 20:09,4th year,Very bad,25,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,Yes,No,Yes,Yes,No,5
+12/26/2020 20:12,4th year,Very bad,10,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,Yes,No,Yes,Yes,No,5
+12/26/2020 20:13,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,10
+12/26/2020 20:15,4th year,Bad,30,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,8
+12/26/2020 20:17,4th year,Normal,50,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,Yes,No,Yes,No,Yes,9
+12/26/2020 20:18,4th year,Normal,55,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,Yes,No,Yes,Yes,No,9
+1/16/2021 20:45,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:45,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:47,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:48,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:48,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:48,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:48,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:48,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:48,4th year,Good,66,Female,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,9
+1/16/2021 20:49,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:49,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:49,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:49,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:49,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:50,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:50,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:50,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:50,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:50,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:50,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,No,Family,Yes,No,Yes,No,No,8
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:52,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:53,4th year,Good,70,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,Yes,Yes,No,No,9
+1/16/2021 20:56,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 20:57,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 20:58,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 20:59,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:00,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:01,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:02,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:03,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:05,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:06,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:06,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:06,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:06,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:06,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:06,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:06,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:06,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:06,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:07,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:07,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:07,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:07,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:07,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:07,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:07,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:07,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:07,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:07,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:07,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:07,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:08,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:08,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:08,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:08,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:08,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:08,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:08,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:08,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:08,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:08,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:08,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:12,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:12,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:12,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:12,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:12,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:12,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:12,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:12,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:12,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:12,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:12,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:12,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:12,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:12,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:12,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:12,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:13,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:13,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:13,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:13,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:13,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:13,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:13,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:13,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:13,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:13,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:13,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:13,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:13,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:13,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:14,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:14,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:14,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:14,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:14,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:14,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:14,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:14,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:14,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:14,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:14,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:14,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:15,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:15,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:15,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:15,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:15,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:15,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:15,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:15,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:15,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:15,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:15,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:15,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:15,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:15,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:16,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:16,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:16,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:16,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:17,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:17,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:17,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:17,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:17,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:17,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:17,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:17,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:17,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:18,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:18,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:18,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:18,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:18,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:18,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:18,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:18,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:18,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:18,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:18,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:18,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:18,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:18,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:18,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:19,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:19,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:19,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:19,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:19,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:19,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:19,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:19,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:19,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:19,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:19,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:19,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:19,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:20,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:20,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:20,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:20,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:20,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:20,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:20,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:20,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:20,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:20,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:20,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:20,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:20,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/16/2021 21:21,4th year,Good,77,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,Yes,Yes,No,No,8
+1/16/2021 21:21,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:21,4th year,Very bad,5,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,6
+1/16/2021 21:21,4th year,Bad,15,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,5
+1/16/2021 21:21,4th year,Bad,11,Female,23,Home,Single,Yes,3,Bad,No,No,No,Family,No,No,Yes,Yes,No,4
+1/16/2021 21:21,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+1/16/2021 21:21,4th year,Good,70,Female,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/16/2021 21:21,4th year,Very good,90,Female,23,Park,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+1/16/2021 21:21,4th year,Good,77,Female,23,Park,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+1/16/2021 21:21,4th year,Good,66,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+1/22/2021 15:01,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:02,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:03,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:04,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:05,4th year,Normal,50,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,No,Yes,Yes,No,No,8
+1/22/2021 15:06,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:07,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:09,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:10,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:12,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:13,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:13,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:13,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:13,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:13,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:13,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:13,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:13,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:14,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:14,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:14,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:14,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:14,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:14,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:14,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:14,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:14,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:14,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:14,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:14,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:14,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:14,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:15,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:15,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:15,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:15,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:15,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:15,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:15,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:15,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:15,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:15,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:16,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:16,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:16,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:16,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:16,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:16,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:16,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:16,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:16,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:16,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:16,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:16,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:17,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:17,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:17,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:17,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:17,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:17,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:17,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:17,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:17,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:17,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:17,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:17,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:17,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:18,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:18,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:18,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:18,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:18,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:18,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:18,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:18,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:18,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:18,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:18,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:19,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:19,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:19,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:19,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:19,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:19,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:19,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:19,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:19,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:19,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:19,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:19,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:19,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:20,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:20,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:20,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:20,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:20,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:20,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:20,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:20,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:20,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:20,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:20,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:20,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:20,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:21,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:21,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:21,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:21,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:21,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:21,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:21,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:21,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:21,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:21,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:21,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:22,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:22,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:22,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:22,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:22,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:22,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:22,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:22,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:22,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:22,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:22,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:22,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:22,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:23,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:23,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:23,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:23,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:23,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:23,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:23,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:23,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:23,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:23,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:23,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:24,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:24,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:24,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:24,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:24,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:24,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:24,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:24,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:24,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:24,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:24,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:24,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:24,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:24,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:25,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:25,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:25,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:25,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:25,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:25,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:25,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:25,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:25,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:26,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:26,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:26,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:26,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:26,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:26,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:26,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:26,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:26,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:26,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:26,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:26,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:26,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:26,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:26,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:26,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:26,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:27,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:27,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:27,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:27,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:27,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:27,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:27,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:27,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:28,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:28,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:28,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:28,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:28,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:28,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:28,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:28,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:28,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:28,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:28,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:28,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:28,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:28,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:28,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:28,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:29,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:29,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:29,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:29,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:29,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:29,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:29,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:29,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:29,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:29,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:29,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:29,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:29,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:30,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:30,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:30,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:30,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:30,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:30,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:30,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:30,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:30,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:30,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:30,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:31,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:31,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:31,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:31,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:31,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:31,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:31,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:31,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:31,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:31,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:31,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:31,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:31,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:31,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:31,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:31,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:31,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:32,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:32,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:32,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:32,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:32,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:32,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:32,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:32,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:32,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:32,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:32,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:32,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:32,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:32,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:32,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:40,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:40,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:40,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:40,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:40,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:40,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:40,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:40,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/0/1900 0:00,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:40,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:40,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:40,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:40,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:40,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:40,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:41,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:50,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:51,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:51,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:51,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:51,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:51,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:51,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:51,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:51,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:51,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:51,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:51,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 15:52,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 15:52,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:52,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 15:52,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 15:52,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 15:52,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 16:58,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 16:59,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 16:59,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 16:59,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 16:59,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 16:59,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 16:59,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 16:59,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 16:59,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 16:59,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 16:59,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:00,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:00,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 17:00,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:00,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:00,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:00,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:00,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:00,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:00,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:00,4th year,Good,70,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,9
+1/22/2021 17:00,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:00,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:00,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:00,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:00,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:00,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:00,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:01,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:01,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:01,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:02,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:03,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:04,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:04,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:05,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:05,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:05,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:05,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:05,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:05,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:05,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:05,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:05,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:05,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:05,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:05,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:05,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:05,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:05,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:05,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:05,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:05,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:06,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:06,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:06,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:06,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:06,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:06,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:06,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:06,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:06,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:06,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:06,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:06,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:06,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:06,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:06,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:06,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:06,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:07,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:07,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:07,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:07,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:07,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:07,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:07,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:07,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:07,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:07,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:07,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:07,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:07,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:07,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:07,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:07,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:08,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:08,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:08,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:08,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:08,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:08,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:08,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:08,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:08,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:08,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:08,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:08,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:08,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:08,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:08,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:08,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:09,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:09,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:09,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:09,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:09,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:09,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:09,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:09,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:09,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:09,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:09,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:09,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:09,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:09,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:09,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:09,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:10,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:10,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:10,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:10,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:10,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:10,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:10,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:10,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:10,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:10,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:10,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:10,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:10,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:10,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:10,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:10,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:10,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:11,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:11,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:11,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:11,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:11,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:11,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:11,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:11,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:11,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:11,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:11,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:11,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:11,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:11,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:11,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:11,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:11,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:11,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:11,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:12,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:12,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:12,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:12,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:12,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:12,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:12,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:12,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:12,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:12,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:12,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:12,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:12,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:12,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:12,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:12,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:13,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:13,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:13,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:13,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:13,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:13,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:13,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:13,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:13,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:13,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:13,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:13,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:13,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:13,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:13,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:13,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:13,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:14,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:14,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:14,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:14,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:14,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:14,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:14,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:14,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:14,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:14,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:14,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:14,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:14,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:14,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:14,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:14,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:14,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:15,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:15,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:15,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:15,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:15,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:15,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:15,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:15,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:15,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:15,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:22,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:22,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:22,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:22,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:22,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:22,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:22,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:23,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:23,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:23,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:23,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:23,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:24,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:24,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:24,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:24,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:24,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:24,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:24,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:24,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:24,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:24,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:24,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:24,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:24,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:24,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:24,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:24,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:24,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:24,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:24,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:25,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:25,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:25,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:25,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:25,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:25,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:25,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:26,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:26,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:26,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:26,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:26,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:26,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:26,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:26,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:26,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:26,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:26,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:26,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:26,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:26,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:26,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:26,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:26,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:26,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:27,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:27,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:27,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:27,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:27,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:27,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:27,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:27,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:27,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:27,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:27,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:27,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:27,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:27,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:27,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:27,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:27,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:27,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:27,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:27,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:28,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:28,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:28,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:28,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:28,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:28,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:28,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:28,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:28,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:28,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:28,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:28,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:28,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:28,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:28,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:28,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:28,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:29,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:29,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:29,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:29,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:29,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:29,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:29,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:29,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:29,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:29,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:29,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:29,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:29,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:30,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:30,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:30,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:30,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:30,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:30,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:30,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:30,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:30,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:30,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:30,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:30,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:30,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:30,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:30,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:30,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:30,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:31,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:31,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:31,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:31,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:31,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:31,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:31,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:31,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:31,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:31,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:31,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:31,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:31,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:38,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:38,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:38,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:37,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:37,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:37,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:37,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:37,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:37,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:37,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:37,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:37,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:37,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:37,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:37,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:37,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:38,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:38,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:38,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:38,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:38,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:38,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:38,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:38,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:38,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:38,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:38,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:38,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:38,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:38,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:38,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:39,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:39,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:39,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:39,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:39,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:39,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:39,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:39,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:39,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:39,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:39,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:40,4th year,Normal,55,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,6
+1/22/2021 17:40,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:38,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:38,4th year,Very good,90,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,Yes,8
+1/22/2021 17:38,4th year,Very good,85,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,7
+1/22/2021 17:38,4th year,Very good,88,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,Yes,6
+1/22/2021 17:39,4th year,Normal,59,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
+1/22/2021 17:39,4th year,Normal,60,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,80,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,8
+1/22/2021 17:39,4th year,Good,75,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,65,Female,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,6
+1/22/2021 17:39,4th year,Good,68,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Yes,Yes,No,No,7
